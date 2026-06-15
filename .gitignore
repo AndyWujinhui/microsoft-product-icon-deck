@@ -1,0 +1,9 @@
+node_modules/
+generated-assets/
+qa-slides/
+roadmap-deck-extracted/
+roadmap-icon-candidates/
+official-icon-assets/
+ERP product roadmap and innovation  2026-01.pptx
+Microsoft_Product_Icons_By_Category.pptx
+*.tmp.js
